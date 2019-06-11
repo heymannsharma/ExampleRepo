@@ -22,7 +22,7 @@ public class ThisIsExampleRepo {
       
           Beads b2=new Beads("black");
         System.out.println(b1.getColor()+ " "+b2.getColor());
-          
+          //this is an example code
     
     }
     
